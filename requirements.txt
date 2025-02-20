@@ -1,5 +1,4 @@
-import os
-
-f = open("requirements.txt", "r")
-
-print(f.read())
+requests
+langchain
+langchain_ollama
+python-dotenv
